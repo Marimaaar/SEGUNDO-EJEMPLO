@@ -1,0 +1,15 @@
+.bg-primary{
+    background-color: blueviolet !important;
+}
+.bg-secondary{
+    background-color: #49556b !important;
+}
+.bg-danger{
+    background-color: #18202d !important;
+}
+.imgback
+{
+    background-image: url(./imagenes/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 80% top;
+}
